@@ -28,8 +28,13 @@ Find 10 misclassified images for the BN model, and show them as a 5x2 image matr
 ### File structure in repository
 
 Main ipynb file = S8.ipynb
+
 Models are kept in models.py
-     Wrapper function S8_model() is used to invoke three seperate models created for Batch Normalization, Layer Normalization and Group Normalization
+     Wrapper function S8_model() is used to invoke three seperate models created for 
+     Batch Normalization, 
+     Layer Normalization and 
+     Group Normalization
+
 Utilities are captured in utils.py
     Functions included are
       get_incorrrect_predictions()
