@@ -9,6 +9,7 @@ C1 C2 c3 P1 C3 C4 C5 c6 P2 C7 C8 C9 GAP c10
   - Capital C stands for Convolution block - convolution , ReLU, Batch/Layer/Group Normalization
   - Small c stands for 1 x 1 layer to reduce number of channels
   - Capital P stands MaxPolling layer
+
 Keep the parameter count less than 50000
 Try and add one layer to another
 Max Epochs is 20
