@@ -27,7 +27,24 @@ Find 10 misclassified images for the BN model, and show them as a 5x2 image matr
 
 ### File structure in repository
 
+Main ipynb file = S8.ipynb
+Models are kept in models.py
+     Wrapper function S8_model() is used to invoke three seperate models created for Batch Normalization, Layer Normalization and Group Normalization
+Utilities are captured in utils.py
+    Functions included are
+      get_incorrrect_predictions()
+      plot_incorrect_predictions()
+     
+
 ### Models used for Batch Normalization, Layer Normalization and Group Normalization
+
+Models created for Batch Normalization, Layer Normalization and Group Normalization are
+  - Model_Batch_Normalization()
+  - Model_Layer_Normalization()
+  - Model_Group_Normalization()
+Wrapper function S8_model() is used to invoke three seperate models created for Batch Normalization, Layer Normalization and Group Normalization
+Some of the Models for previous ERA1 Assignment are also included in model.py file
+   
 
 ### Model Summary for Batch Normalization Model
 
@@ -36,6 +53,8 @@ Find 10 misclassified images for the BN model, and show them as a 5x2 image matr
 ### Accuracy Metrics
 
 ![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/Accuracy_Metrics.png)
+
+### Observations/Analysis of Results
 
 ### Misclassified Image - using Batch Normalization
 
