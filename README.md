@@ -18,7 +18,7 @@ Make 3 versions of the above code (in each case achieve above 70% accuracy):
   - Network with Group Normalization
   - Network with Layer Normalization
   - Network with Batch Normalization
-  - 
+    
 Share these details
   - Training accuracy for 3 models
   - Test accuracy for 3 models
