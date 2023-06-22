@@ -16,3 +16,6 @@
 ### Misclassified Image - using Layer Normalization
 
 ### Misclassified Image - using Group Normalization
+
+![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/MisclassifiedGN.png)
+
