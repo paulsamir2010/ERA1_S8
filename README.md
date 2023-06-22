@@ -63,6 +63,12 @@ Some of the Models for previous ERA1 Assignment are also included in model.py fi
 
 ### Observations/Analysis of Results
 
+Train and Test Accuracy of the 3 models are more or less (around 73.5 %)
+
+Highest Train accuracy of 73.61 %  is obtained in 'Batch Normalization' model
+
+Highest Test accuracy of 73.83 % is obtained in 'Group Normalization' model
+
 ### Misclassified Image - using Batch Normalization
 
 ![image](https://github.com/paulsamir2010/ERA1_S8/blob/main/MisclassifiedBN.png)
