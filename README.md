@@ -63,7 +63,7 @@ Some of the Models for previous ERA1 Assignment are also included in model.py fi
 
 ### Observations/Analysis of Results
 
-Train and Test Accuracy of the 3 models are more or less (around 73.5 %)
+Train and Test Accuracy of the 3 models are more or less same (around 73.5 %)
 
 Highest Train accuracy of 73.61 %  is obtained in 'Batch Normalization' model
 
