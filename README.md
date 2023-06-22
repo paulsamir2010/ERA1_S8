@@ -36,9 +36,10 @@ Models are kept in models.py
      Group Normalization
 
 Utilities are captured in utils.py
-    Functions included are
-      get_incorrrect_predictions()
-      plot_incorrect_predictions()
+
+    - Functions included are
+      - get_incorrrect_predictions()
+      - plot_incorrect_predictions()
      
 
 ### Models used for Batch Normalization, Layer Normalization and Group Normalization
